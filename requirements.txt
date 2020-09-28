@@ -1,0 +1,25 @@
+REQUIREMENTS & DESIGN MILESTONE
+
+* High-level description of the software you are building
+
+At a high-level, our project aims to teach K-12 students basic AI principles using Minecraft Education Edition (MEE). One goal of this project is to create a tool that can be explored in a variety of creative ways, all the while improving a child's understanding of artificial intelligence.
+
+Somethings worth exploring in our project are how AI can be discriminatory [think white skinned villagers being the main source of training leading to a deficiency in training in regards to other groups]. Another thing worth thinking about is how the child can use the tool to get unexpected results but fun results [this helps with engagement (I have a citation for this if needed) and, thus, improves learning/understanding]. For instance, if you teach a robot to put out all fires using water, then there may be unexpected flooding that results from this. 
+
+* Who the target user groups are.
+
+The primary users of this software will be children that have relatively little coding experience; moreover, most of their coding experiences are expected to have come from the coding learning arc built into MEE. The secondary users of this software will be teachers who are using this in a classroom setting. Meaning, the teachers will be there to help students use the menus and navigate in the event of a child's confusion. Tertiary users would be the developers, using this in primarily a testing environment. 
+
+* Overview of System Architecture given in a Data Flow Diagram
+
+---------- This is a Big ?
+
+* Detailed List of Functional Requirements for each milestone.
+
+---------- Ditto
+
+* Detailed List of Non-Functional Requirements and Environmental constraints
+
+---------- Ditto
+
+I imagine that environmental constraints are that it has to be simple to understand and use, Moreover, it must work in Minecraft Education Edition. Must have some intrinsic value to the student, in such a way that they actively want to use it and have fun with it in ways that they desire. 

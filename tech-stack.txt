@@ -1,0 +1,5 @@
+TECH STACK
+ - Everything must be implemented in Minecraft Education Edition w/o the need to change the source code.
+	+ We must use the MakeCode environment within Minecraft.
+ - C++
+ - Java 

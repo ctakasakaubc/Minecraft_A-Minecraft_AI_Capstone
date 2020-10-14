@@ -2,24 +2,67 @@ REQUIREMENTS & DESIGN MILESTONE
 
 * High-level description of the software you are building
 
-At a high-level, our project aims to teach K-12 students basic AI principles using Minecraft Education Edition (MEE). One goal of this project is to create a tool that can be explored in a variety of creative ways, all the while improving a child's understanding of artificial intelligence.
+At a high-level, our project aims to teach elementary students basic AI principles using Minecraft Education Edition (MEE). One goal of this project is to create a tool that can be explored in a variety of creative ways, all the while improving a child's understanding of artificial intelligence.
 
-Somethings worth exploring in our project are how AI can be discriminatory [think white skinned villagers being the main source of training leading to a deficiency in training in regards to other groups]. Another thing worth thinking about is how the child can use the tool to get unexpected results but fun results [this helps with engagement (I have a citation for this if needed) and, thus, improves learning/understanding]. For instance, if you teach a robot to put out all fires using water, then there may be unexpected flooding that results from this. 
+Some things worth exploring in our project are how AI can be discriminatory [think white skinned villagers being the main source of training leading to a deficiency in training in regards to other villagers]. Another thing worth thinking about is how the child can use the tool to get unexpected but fun results [this helps with engagement (I have a citation for this if needed) and, thus, improves learning/understanding]. For instance, if you teach a robot to put out all fires using water, then there may be unexpected flooding that results from this. 
 
 * Who the target user groups are.
 
-The primary users of this software will be children that have relatively little coding experience; moreover, most of their coding experiences are expected to have come from the coding learning arc built into MEE. The secondary users of this software will be teachers who are using this in a classroom setting. Meaning, the teachers will be there to help students use the menus and navigate in the event of a child's confusion. Tertiary users would be the developers, using this in primarily a testing environment. 
+The primary users of this software will be children that have relatively little coding experience; moreover, most of their coding experiences are expected to have come from the coding learning arc built into MEE. The expectation is that the children will open up different minecraft scenarios where they are expected to use the minecraft agent to solve a problem. This agent would also be available outside of those scenarios, allowing children to play with the agent to accomplish their own goals. The secondary users of this software will be teachers who are using this in a classroom setting. Meaning, the teachers will be there to help students use the menus and navigate in the event of a child's confusion. Tertiary users would be the developers, using this in primarily a testing environment. 
 
 * Overview of System Architecture given in a Data Flow Diagram
 
----------- This is a Big ?
+---------- See 'DFD Minecraft A.pdf'
 
 * Detailed List of Functional Requirements for each milestone.
 
----------- Ditto
+### Our project does not involve us coding in the traditional sense. Instead of us programming parts to add funcionality to MEE, we are trying to use as much of what is already present in MEE.
+### The functional reqs listed below are things we ask the MEE development team to implement b/c they are not currently in the game. We will not be implementing these ourselves. 
+### Moreover, we are not expecting the MEE dev team to have these implemented in the game until, at the very earliest, January 2021.
+
+-----Milestone 1 | Peer Testing #1-----
+
+1 Block Coding interface
+	1.1 Drag and drop code blocks into the MakeCode Window
+
+2 Function Calling in chat
+	2.1 Players can use the chat feature in Minecraft to call and execute the functions they wrote in the Block Coding Interface
+
+3 Turtle Programming with the Player Agent Mob (Agent)
+	// This utilizes the Block Coding Interface
+	3.1 Direct Control
+		3.1.1 Code Blocks have specific commands which the Agent will follow (ie move forward, place block)
+		3.1.2 Players Link these commands in the Block Coding Interface to make a function
+		3.1.3 Players can call this function in the chat
+
+-----Milestone 2 | Peer Testing #2-----
+
+1 Players give abstract commands to their Agent in the Block Coding Interface
+	// These are miniature tasks that can be combined together. (hoe the farm, then plant wheat being an illustration of two different blocks)
+	// These are not specific instructions on how to accomplish the goal.
+		
+2 Load Scenarios
+	2.1 Display list of scenarios on screen
+	2.2 Allow player to select and load a scenario, which will illustrate a concept of AI
+
+
+-----Milestone 3 | Final-----
+
+1 List scenarios as the UBC AI arc
+
+2 
 
 * Detailed List of Non-Functional Requirements and Environmental constraints
 
----------- Ditto
+1 Is easily used in a classroom setting
+
+2 Language is clear and understandable to a young audience
+
+3 Menus are easy to navigate by both teachers and young children
+
+4 Content is appropriate for young ages
+
+5 What children learn is something that they will want to use even after the scenarios are completed
+	- Holds intrinsic value to the student
 
 I imagine that environmental constraints are that it has to be simple to understand and use, Moreover, it must work in Minecraft Education Edition. Must have some intrinsic value to the student, in such a way that they actively want to use it and have fun with it in ways that they desire. 

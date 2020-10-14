@@ -1,3 +1,43 @@
- IDEAS
+VIDEO PLAN
 
-- Make the video in Minecraft
+1 Give a High Level Description of our Project
+	1.1 What are we doing?
+		- we are creating a learning arc to introduce artificial intelligence concepts to elementary schoolers
+	1.2 Who are the primary users?
+		- Elementary Schoolers. Assumption is that they have 0 knowledge about what artificial intelligence is. 
+		- They will use MEE in a classroom setting
+		- They are using MEE to both learn and have fun
+		- They will be following a series of scenarios we lay out for them (a learning arc)
+	1.3 Who are the secondary users?
+		- Teachers! Assumption is that they will there to help the students with navigating MEE. Also assumed that teachers will not have great familiarity with AI concepts.
+		- They will lead students in a classroom setting, having the students complete scenarios that the students will learn from.
+		- They are assumed to be familiar with the way MEE works and can help students use any menus they are unfamiliar with.
+
+2 Present the System Architecture DFD
+	2.1 Explain what is already implemented
+		- MakeCode is a block coding tool implemented in MEE
+		- There are a list of learning arcs for students to follow
+	2.2 Explain where our project comes in
+		- We are creating a series of scenarios (a learning arc) which students will follow. This arc will teach students what Classical Control is (giving specific instructions to an agent) and what Abstract Control is (giving an objective w/o specified instructions on how to complete it) 
+
+3 Breakdown our Milestones
+	3.1 Peer Testing #1 | Milestone 1 ~~~NOVEMBER 20th~~~ (no specific date seen)
+		- Have a basic scenario illustrating classical control to an elementary schooler
+			- Scenario will have a problem for the student to solve by programming the Player Agent
+			- Give a specific example of something that we might do for a scenario
+	3.2 Peer Testing #2 | Milestone 2
+		- Have a scenario illustrating how one might want to use abstract control
+			- Example: Have the AI breed the pigs in a farm. These are not giving specific instructions.
+	3.3 Final | Milestone 3
+		- Have our arc end in such a way that the natural progression is into the middle schoolers arc.
+			- Students will be primed to learn about training artificial intelligence
+
+4 Explain the functional requirements
+
+5 Explain the environmental requirements
+
+
+END GOAL
+ Instead of reading a boring text book to learn the ideas of artificial intelligence,
+ players will learn the core concepts of AI by using AI in the scenarios.
+ Thus, the students will have a stronger grasp of what AI is and how it can be utilized.

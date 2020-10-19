@@ -1,0 +1,19 @@
+Backend for storing data
+ - capturing details in game
+ - MongoDB/SQLlite to hold
+
+frontend jupyter notebook in minecraft
+ - have the player look at their data
+ - have the Agent tell them about their data
+ - bayesian network to illustrate it
+
+
+Jeff's Team: add more sensors for onDeath, and onGetHit
+
+Read - Eval - Output
+
+
+run in a stand alone electron app
+something you can use to 
+-----------------
+hardcode scenarios to show things

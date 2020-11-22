@@ -7,23 +7,23 @@
     <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
-    <h1>Minecraft Test</h1>
-    <p>
-    We are using node <script>document.write(process.versions.node)</script>,
-    Chrome <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
-    </p>
+  <div class="container" id="if-container">
+    <div id="if-text">IF</div>
     <select name="events" id="events">
         <option value="NoEvent" selected="selected">Select an Event</option>
         <option value="BlockPlaced">Block Placed</option>
         <option value="MobSpawned">Mob Spawned</option>
         <option value="NewDay">New Day</option>
     </select>
+  </div>
+  <div class="container" id="response-container">
+    <div id="then-text">THEN</div>
     <select name="response" id="response">
         <option value="NoResp" selected="selected">Select a Response</option>
-        <option value="BlockPlaced">Block Placed</option>
+        <option value="SetTimeDay">Set Time to Day</option>
         <option value="MobSpawned">Mob Spawned</option>
         <option value="NewDay">New Day</option>
     </select>
+  </div>
 </body>
 </html>

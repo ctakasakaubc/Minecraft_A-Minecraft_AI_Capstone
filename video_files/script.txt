@@ -4,8 +4,44 @@ OUTLINE FOR VIDEO PRESENTATION
 REQs
 ----
 2 Minutes
+
 Illustrate What we have completed
   - Reading game information and all that jazz
   - Using pandas dataframes to look at the game data
   - Subscribing to events
   - Doing all that cool sweet cool data science stuff
+
+OUTLINE
+-------
+Introduce ourselves and what we accomplished
+  - "Hi we are Minecraft group A, and this is our Ted Talk"
+
+Central idea is to give Minecraft Players the tools to start collecting
+their game data and the tools to analyze it.
+
+Our project hosts a Python kernel with popular libraries including Pandas
+SKlearn, and Numpy.
+
+Players can use the event selection pillbox to select events they want to
+listen to in game.
+
+This enables players to play with the events that they collect in the game.
+
+
+
+
+
+
+
+--------------------------
+
+Be in the mine?
+
+
+
+
+
+I am not sure what we cover for the video code wise.
+
+
+something

@@ -1,0 +1,11 @@
+OUTLINE FOR VIDEO PRESENTATION
+------------------------------
+
+REQs
+----
+2 Minutes
+Illustrate What we have completed
+  - Reading game information and all that jazz
+  - Using pandas dataframes to look at the game data
+  - Subscribing to events
+  - Doing all that cool sweet cool data science stuff
